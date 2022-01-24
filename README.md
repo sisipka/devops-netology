@@ -5,3 +5,4 @@ netology
 логи крашей, все с расширением .tfvars, оканчивающиеся на *_override.tf
 *_override.tf.json, а так же файлы с .terraformrc и terraform.rc.
 Включены !example_override.tf.
+Задание №3 - Ветки
