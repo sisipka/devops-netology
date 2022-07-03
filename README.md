@@ -1,5 +1,5 @@
-# Домашние задания по курсу DevOps-инженер
-## Содержание:
+## Домашние задания по курсу DevOps-инженер
+### Содержание:
 
 [1.1. Введение в DevOps](https://github.com/sisipka/devops-netology/blob/main/1.1.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20DevOps.md)
 
