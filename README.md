@@ -29,9 +29,9 @@
 
 [3.9. Элементы безопасности информационных систем](https://github.com/sisipka/devops-netology/blob/main/3.9.%20%D0%AD%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC.md)
 
-[4.1 Командная оболочка Bash](https://github.com/sisipka/devops-netology/blob/main/4.1%20%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0%20Bash.md)
+[4.1. Командная оболочка Bash](https://github.com/sisipka/devops-netology/blob/main/4.1%20%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0%20Bash.md)
 
-[4.2 Использование Python](https://github.com/sisipka/devops-netology/blob/main/4.2%20%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Python.md)
+[4.2. Использование Python](https://github.com/sisipka/devops-netology/blob/main/4.2%20%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Python.md)
 
 [4.3. Языки разметки JSON и YAML](https://github.com/sisipka/devops-netology/blob/main/4.3.%20%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8%20JSON%20%D0%B8%20YAML.md)
 
@@ -39,9 +39,9 @@
 
 [5.2. Применение принципов IaaC](https://github.com/sisipka/devops-netology/blob/main/5.2.%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%BE%D0%B2%20IaaC.md)
 
-[5.3 Docker](https://github.com/sisipka/devops-netology/blob/main/5.3%20Docker.md)
+[5.3. Docker](https://github.com/sisipka/devops-netology/blob/main/5.3%20Docker.md)
 
-[5.4 Docker Compose](https://github.com/sisipka/devops-netology/blob/main/5.4%20Docker%20Compose.md)
+[5.4. Docker Compose](https://github.com/sisipka/devops-netology/blob/main/5.4%20Docker%20Compose.md)
 
 [5.5. Оркестрация кластером Docker контейнеров на примере Docker Swarm](https://github.com/sisipka/devops-netology/blob/main/5.5.%20%D0%9E%D1%80%D0%BA%D0%B5%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%BC%20Docker%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D0%BE%D0%B2%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B5%20Docker%20Swarm.md)
 
@@ -68,3 +68,5 @@
 [7.5. Основы golang](https://github.com/sisipka/devops-netology/blob/main/7.5.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20golang.md)
 
 [7.6. Написание собственных провайдеров для Terraform](https://github.com/sisipka/devops-netology/blob/main/7.6.%20%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B0%D0%B9%D0%B4%D0%B5%D1%80%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20Terraform.md)
+
+[8.1. Введение в Ansible](https://github.com/sisipka/devops-netology/blob/main/8.1.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Ansible.md)
