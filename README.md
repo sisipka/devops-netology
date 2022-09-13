@@ -87,8 +87,8 @@
 
 [9.4. Jenkins](https://github.com/sisipka/devops-netology/blob/main/9.4.%20Jenkins.md)
 
-[9.5. TeamCity]()
+[9.5. TeamCity](https://github.com/sisipka/devops-netology/blob/main/9.5.%20TeamCity.md)
 
-[]()
+[9.6. Gitlab](https://github.com/sisipka/devops-netology/blob/main/9.6.%20Gitlab.md)
 
 []()
