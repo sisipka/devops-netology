@@ -35,6 +35,10 @@
 
 [4.3. Языки разметки JSON и YAML](https://github.com/sisipka/devops-netology/blob/main/4.3.%20%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8%20JSON%20%D0%B8%20YAML.md)
 
+<p align="left">
+  <img src="./pic/DevOps и системное администрирование.pdf">
+</p>
+
 [5.1. Введение в виртуализацию](https://github.com/sisipka/devops-netology/blob/main/5.1.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E.md)
 
 [5.2. Применение принципов IaaC](https://github.com/sisipka/devops-netology/blob/main/5.2.%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%BE%D0%B2%20IaaC.md)
