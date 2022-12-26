@@ -147,6 +147,16 @@
   <img src="./pic/Администрирование и конфигурация Kubernetes.png">
 </p>
 
+[14.1 Создание и использование секретов](https://github.com/sisipka/devops-netology/blob/main/14.1%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BE%D0%B2.md)
+
+[14.2 Синхронизация секретов с внешними сервисами. Vault](https://github.com/sisipka/devops-netology/blob/main/14.2%20%D0%A1%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BE%D0%B2%20%D1%81%20%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%BC%D0%B8%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%D0%BC%D0%B8.%20Vault.md)
+
+[14.3 Карты конфигураций](https://github.com/sisipka/devops-netology/blob/main/14.3%20%D0%9A%D0%B0%D1%80%D1%82%D1%8B%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D0%B9.md)
+
+[]()
+
+[]()
+
 []()
 
 []()
