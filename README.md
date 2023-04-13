@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="./pic/Диплом.jpeg">
+</p>
+
 ## Домашние задания по курсу DevOps-инженер
 ### Содержание:
 
@@ -169,4 +173,8 @@
   <img src="./pic/Kubernetes и облачные сервисы.png">
 </p>
 
-[]()
+[Дипломная работа профессии "DevOps-инженер"](https://github.com/sisipka/diploma-devops-engineer)
+
+<p align="left">
+  <img src="./pic/Дипломный_блок.jpeg">
+</p>
